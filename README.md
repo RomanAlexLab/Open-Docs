@@ -49,7 +49,7 @@
 Если у вас есть вопросы, предложения или вы хотите обсудить сотрудничество, вы можете связаться со мной через:
 - **Email:** roman2019alex@yandex.ru
 - **Vk:** [Профиль Vk](https://vk.com/roman2019alex)
-- **Telegram:** [@Roman89n](https://t.me/@Roman89n)
+- **Telegram:** [@Roman89n](https://t.me/Roman89n)
 
 ---
 
