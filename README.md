@@ -38,7 +38,7 @@
 
 Я работаю с различными технологиями и инструментами.  
 Вот основные из них:
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS
 - **Backend:** Python (FastApi/Django)
 - **Базы данных:** MySQL, PostgreSQL
 - **Инструменты:** Git, Docker, REST API
