@@ -23,7 +23,7 @@ order: 2
 
 -  **Хранилище объектов:** S3
 
--  **Инструменты:** BookStack, Bash, Init-script, Git, Docker, NGINX
+-  **Инструменты:** BookStack, Bash, Init-script, Git, Apache
 
 ## **Демонстрация:**
 
