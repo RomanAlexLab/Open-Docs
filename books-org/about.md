@@ -5,11 +5,11 @@ title: Описание проекта
 
 ## **Демонстрация:**
 
-![](./about.png){width=1573px height=680px}
+![](./about.png)
 
 
 
-![](./about-2.png){width=1581px height=690px}
+![](./about-2.png)
 
 
 
