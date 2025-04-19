@@ -15,5 +15,3 @@ chmod a+x installation-ubuntu-22.04.sh
 # Run the script with admin permissions
 sudo ./installation-ubuntu-22.04.sh
 ```
-
-
