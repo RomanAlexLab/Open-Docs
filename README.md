@@ -40,7 +40,7 @@
 Вот основные из них:
 - **Frontend:** HTML, CSS
 - **Backend:** Python (FastApi/Django)
-- **Базы данных:** MySQL, PostgreSQL
+- **Базы данных:** PostgreSQL
 - **Инструменты:** Git, Docker, REST API
 
 ---
