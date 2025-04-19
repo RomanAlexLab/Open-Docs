@@ -3,6 +3,8 @@ order: 3
 title: Конфигурация BookStack
 ---
 
+## **Конфигурация BookStack**
+
 Перейти в директорию bookstack
 
 ```
@@ -32,6 +34,24 @@ STORAGE_S3_SECRET=your-service-secret-key
 STORAGE_S3_BUCKET=your-service-bucket-name
 STORAGE_S3_ENDPOINT=https://your-service-base-endpoint.com
 STORAGE_URL=https://your-service-base-endpoint.com/your-service-bucket-name
+```
+
+## **Настройка HTTPS**
+
+```
+sudo apt update
+sudo apt install certbot python3-certbot-apache
+sudo certbot --apache -d domen.ru
+```
+
+Автоматическое обновление
+
+```
+sudo crontab -e
+```
+
+```
+0 3 * * * certbot renew —quiet
 ```
 
 
