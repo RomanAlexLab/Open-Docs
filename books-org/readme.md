@@ -11,13 +11,13 @@ order: 1
 
 -  [Описание проекта](./about.md)
 
--  [Архитектура проекта](./arch)
+-  [Архитектура проекта](./arch.md)
 
--  [Инициализация сервера](./server)
+-  [Инициализация сервера](./server.md)
 
--  [Установка BookStack](./bookstack)
+-  [Установка BookStack](./bookstack.md)
 
--  [Конфигурация BookStack](./env-file)
+-  [Конфигурация BookStack](./env-file.md)
 
 ## **Стек технологий:**
 
