@@ -1,6 +1,6 @@
 ---
 title: Open-Docs
-order: 1
+order: 3
 ---
 
 # Open-Docs
