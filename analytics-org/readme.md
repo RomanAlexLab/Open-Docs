@@ -8,7 +8,7 @@ title: Система бизнес-аналитики
 
 ## **Навигация по разделу:**
 
--   
+-  [Видео-демонстрация](https://rutube.ru/video/private/45105eb5d2b3330a3caffd6929a1337a/?p=d__bwkAdHJUYnKm1L5HPjg)
 
 -   
 
