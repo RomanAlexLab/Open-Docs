@@ -12,6 +12,8 @@ title: Система бизнес-аналитики
   Ваш браузер не поддерживает воспроизведение видео.
 </video>
 
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/45105eb5d2b3330a3caffd6929a1337a" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 ## **Навигация по разделу:**
 
 -   
