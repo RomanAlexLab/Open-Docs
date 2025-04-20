@@ -20,10 +20,8 @@ title: Система бизнес-аналитики
 
 ## **Стек технологий:**
 
--  **Языки:** PHP, Python
+-  **Языки:** Java, Python
 
 -  **Базы данных:** PostgreSQL
 
--  **Хранилище объектов:** S3
-
--  **Инструменты:** BookStack, Bash, Init-script, Git, Apache
+-  **Инструменты:** Metabase, Bash, Init-script, Git, Nginx
