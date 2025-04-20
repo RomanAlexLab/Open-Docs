@@ -10,13 +10,9 @@ title: Система бизнес-аналитики
 
 -  [Видео-демонстрация](https://rutube.ru/video/private/45105eb5d2b3330a3caffd6929a1337a/?p=d__bwkAdHJUYnKm1L5HPjg)
 
--   
+-  [Описание проекта](./about)
 
--   
-
--   
-
--   
+-  [Решение проекта](./demo)
 
 ## **Стек технологий:**
 
@@ -24,4 +20,4 @@ title: Система бизнес-аналитики
 
 -  **Базы данных:** PostgreSQL
 
--  **Инструменты:** Metabase, Bash, Init-script, Git, Nginx
+-  **Инструменты:** Metabase, Bash, Init-script, Git, Nginx, Albato, Redis
