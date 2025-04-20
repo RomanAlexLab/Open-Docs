@@ -7,6 +7,10 @@ title: Система бизнес-аналитики
 Решение для централизованного сбора, анализа и визуализации бизнес-данных, обеспечивающее удобный доступ к аналитическим инструментам, их оперативное применение и поддержку принятия стратегических решений.
 
 [video:https://drive.google.com/file/d/1ntCYRVnAcQZy2PUf9Gom-Sc0SePy02dN/view?usp=sharing:]
+<video width="640" height="360" controls>
+  <source src="https://raw.githubusercontent.com/username/repo/main/video.mp4" type="video/mp4">
+  Ваш браузер не поддерживает воспроизведение видео.
+</video>
 
 ## **Навигация по разделу:**
 
