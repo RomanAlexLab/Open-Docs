@@ -8,7 +8,7 @@ title: Система бизнес-аналитики
 
 [video:https://drive.google.com/file/d/1ntCYRVnAcQZy2PUf9Gom-Sc0SePy02dN/view?usp=sharing:]
 <video width="640" height="360" controls>
-  <source src="./demo.mp4" type="video/mp4">
+  <source src="./analytics-org/demo.mp4" type="video/mp4">
   Ваш браузер не поддерживает воспроизведение видео.
 </video>
 
