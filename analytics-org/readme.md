@@ -8,11 +8,11 @@ title: Система бизнес-аналитики
 
 ## **Навигация по разделу:**
 
--  [Видео-демонстрация](https://rutube.ru/video/private/45105eb5d2b3330a3caffd6929a1337a/?p=d__bwkAdHJUYnKm1L5HPjg)
+-  [Видео-демонстрация](https://rutube.ru/video/private/45105eb5d2b3330a3caffd6929a1337a/?p=d__bwkAdHJUYnKm1L5HPjg) (Тестовые данные)
 
 -  [Описание проекта](./about)
 
--  [Решение проекта](./demo)
+-  [Решение по проекту](./demo)
 
 ## **Стек технологий:**
 
