@@ -56,19 +56,19 @@ order: 3
 Здесь представлены ключевые проекты, которые я реализовал.\
 Каждый проект содержит описание, используемые технологии и ссылки на исходный код или демо-версию.
 
--  [Корпоративная база знаний](./books-org/readme)
+-  [Корпоративная база знаний](./books-org/readme.md)
 
--  [Система бизнес-аналитики](./analytics-org/readme)
+-  [Система бизнес-аналитики](./analytics-org/readme.md)
 
--  [AI-тренер для отдела продаж](./ai-tutor/readme)
+-  [AI-тренер для отдела продаж](./ai-tutor/readme.md)
 
--  [Установка панели администратора](./webmin/readme)
+-  [Установка панели администратора](./webmin/readme.md)
 
--  [Установка Metabase](./metabase/readme)
+-  [Установка Metabase](./metabase/readme.md)
 
--  [Jupyter notebook](./notebook/readme)
+-  [Jupyter notebook](./notebook/readme.md)
 
--  [Остальное](./other/readme)
+-  [Остальное](./other/readme.md)
 
 
 > **Раздел находится в разработке**
