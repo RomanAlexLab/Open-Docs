@@ -63,9 +63,9 @@ order: 3
 
 -  [Установка панели администратора](./webmin/readme.md)
 
--  [Установка Metabase](./metabase/readme)
+-  [Установка Metabase](./metabase/readme.md)
 
--  [Jupyter notebook](./notebook/readme)
+-  [Jupyter notebook](./notebook/readme.md)
 
 -  [Остальное](./other/readme)
 
