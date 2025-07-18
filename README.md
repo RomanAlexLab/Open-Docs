@@ -67,13 +67,10 @@ order: 3
 
 -  [Jupyter notebook](./notebook/readme.md)
 
--  [Остальное](./other/readme)
+-  [Остальное](./other/readme.md)
 
-:::quote 
 
-**Раздел находится в разработке**
-
-:::
+> **Раздел находится в разработке**
 
 ---
 
